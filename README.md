@@ -1,5 +1,5 @@
 # KirbyDeck
-
+![KirbyDeck Banner](./images/kirbyDeck-cover.png)
 KirbyDeck is a custom dual-screen mod for **Kirby's Adventure on the AYN Thor**.
 
 The original NES game runs on the top screen while the Thor's second screen becomes an interactive ability deck. As Kirby discovers abilities in the game, corresponding cards are unlocked on the bottom screen and can be used to switch powers on the fly.
@@ -9,6 +9,7 @@ KirbyDeck also integrates with the Thor's hardware for reactive joystick lightin
 > **KirbyDeck does not include Kirby's Adventure or any Nintendo game data. You must provide your own legally obtained Kirby's Adventure NES ROM.**
 
 ---
+![KirbyDeck Banner](./images/kirbydeck-screens.png)
 
 ## Features
 
