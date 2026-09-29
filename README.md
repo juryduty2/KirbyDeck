@@ -1,5 +1,5 @@
 # KirbyDeck
-![KirbyDeck Banner](./images/kirbyDeck-cover.png)
+![KirbyDeck Cover](./images/kirbyDeck-cover.png)
 KirbyDeck is a custom dual-screen mod for **Kirby's Adventure on the AYN Thor**.
 
 The original NES game runs on the top screen while the Thor's second screen becomes an interactive ability deck. As Kirby discovers abilities in the game, corresponding cards are unlocked on the bottom screen and can be used to switch powers on the fly.
@@ -142,6 +142,8 @@ When **Power-Up Lights** are enabled in Settings, the Thor's joystick LEDs react
 Different powers have their own colors, and certain special game states can trigger additional lighting effects.
 
 > The Thor's system-level joystick LED setting must also be enabled for KirbyDeck to control the lights.
+
+![KirbyDeck Joystick Lights](./images/mix-card.gif)
 
 ---
 
