@@ -4,6 +4,11 @@ All notable changes to KirbyDeck will be documented here.
 
 ---
 
+## Version 1.0.0
+- First Official Release 🎉🎉🎉
+- Adds Button Sound Effect
+- Adds disclaimer to ROM selection screen
+
 ## Beta 0.2.3
 
 - Fixed an issue where the intro demo could incorrectly unlock certain ability cards
