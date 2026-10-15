@@ -4,6 +4,12 @@ All notable changes to KirbyDeck will be documented here.
 
 ---
 
+## Version 1.0.1 
+- Adds Clear Settings button
+- Adds Export Game Save button
+- Adds fix for Health Cheat quirk on the over-world
+- Adds fix for LED colors getting lost on game resume
+
 ## Version 1.0.0
 - First Official Release 🎉🎉🎉
 - Adds Button Sound Effect
