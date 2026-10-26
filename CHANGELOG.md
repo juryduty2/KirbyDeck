@@ -3,7 +3,10 @@
 All notable changes to KirbyDeck will be documented here.
 
 ---
-
+## Version 1.0.2 
+- Adds fix for issue where title bar would appear in Dark Mode
+- Adds stylized buttons in settings pane
+  
 ## Version 1.0.1 
 - Adds Clear Settings button
 - Adds Export Game Save button
